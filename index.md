@@ -1,1 +1,1 @@
-## CoFiF: A Corpus of Financial Reports in French Language
+## CoFiF: The first large Corpus of Financial Reports in French Language
