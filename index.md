@@ -32,4 +32,4 @@ If you're using CoFiF in your researches, please don't forget to cite the follow
 This corpus is openly available for non-commercial use under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Contact 
-If you have any questions or suggestions, you can contact Sina Ahmadi (sina.ahmadi@insight-centre.org) and Tobias Daudert (tobias.daudert@insight-centre.org).
+If you have any questions or suggestions, you can contact Sina Ahmadi (sina.ahmadi at insight-centre.org) and Tobias Daudert (tobias.daudert at insight-centre.org).
