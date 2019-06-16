@@ -3,8 +3,8 @@
 CoFiF is the first large corpus comprising company reports in the French language. It contains over **188 million** tokens in **2655** reports, covering four types of documents:
 
 - Reference documents (documents de référence) published annually, usually in the months following the end of the calendar year, and contain information regarding the financial situation and perspectives of a company
-- Annual report (résultats annuels) which summarises a company’s business and activities throughout the previous year
-- Semestrial (résultats semestriels): similar to annual reports in content but published every 6 months
+- Annual reports (résultats annuels) which summarises a company’s business and activities throughout the previous year
+- Semestrial reports (résultats semestriels): similar to annual reports in content but published every 6 months
 - Trimestrial reports (résultats trimestriels): similar to annual reports but published every 3 months
 
 These documents are collected from the 60 largest French companies listed in France’s main stock indices [CAC40](https://en.wikipedia.org/wiki/CAC_40) and [CAC Next 20](https://en.wikipedia.org/wiki/CAC_Next_20). The corpus spans over 20 years, ranging from 1995 to 2018. 
