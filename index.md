@@ -17,7 +17,7 @@ In addition to the PDF files which were collected from enterprises (all rights r
 In addition to the PDF files and the raw text, we also provide a cleaned dataset `CoFiF_cleaned_all.txt` which was used for training our language model reported in the paper. 
 
 ## Get CoFiF
-CoFiF can be downloaded at [https://github.com/CoFiF/Corpus](https://github.com/CoFiF/Corpus). The PDF files of the corpus will also be provided shortly. 
+CoFiF can be downloaded at [https://github.com/CoFiF/Corpus](https://github.com/CoFiF/Corpus). The PDF files of the corpus can be found [here](https://drive.google.com/uc?id=1H0r1YJ8Jw1Z1glFe0gXoTDi9o_FwoTAG&export=download).
 
 ## Reference
 If you're using CoFiF in your researches, please don't forget to cite [this paper](https://www.aclweb.org/anthology/papers/W/W19/W19-5504/):
